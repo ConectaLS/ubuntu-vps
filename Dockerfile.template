@@ -1,5 +1,4 @@
 FROM       ubuntu:18.04
-MAINTAINER Aleksandar Diklic "https://github.com/ConectaLS"
 
 RUN apt-get update
 
